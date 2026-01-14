@@ -1,7 +1,3 @@
-Berikut adalah versi gabungan utuh dari **Dokumen Master Winhance Portable**. Seluruh struktur skrip, penjelasan teknologi, hingga panduan GitHub yang Anda berikan telah disatukan secara sistematis tanpa mengubah isi sebelumnya.
-
----
-
 # **DOKUMEN OPERASIONAL: INSTALLER WINHANCE PORTABLE**
 
 **Target OS:** Windows 10 / 11 (PowerShell)
@@ -140,7 +136,3 @@ Karena skrip ini membuat **System Restore Point**, Anda **WAJIB** menjalankan te
 4. **Shortcut & Cleanup:** Membuat akses cepat di desktop dan secara otomatis menghapus file `.exe` installer asli untuk menjaga kebersihan folder.
 
 ---
-
-**Instruksi Akhir:** Dokumen ini telah menggabungkan seluruh instruksi teknis dan operasional secara lengkap. Anda dapat menyalinnya ke Microsoft Word untuk disimpan sebagai **PDF**.
-
-Apakah ada bagian lain yang ingin Anda tambahkan sebelum kita menutup topik Winhance ini?
